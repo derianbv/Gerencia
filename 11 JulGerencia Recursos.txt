@@ -27,3 +27,10 @@ los porcentajes son de dedicacion al proyecto.
 &&&&ORGANIGRAMA: 
 la organización de la empresa
 
+
+&&&&PLAN DE ADMINISTRACION DE LOS RECURSOS: 
+Documento que tiene lo siguiente: 
+- Politicas de gestión de recursos. 
+- Objetivos plan de proyectos. 
+- Integrantes del grupo, su fecha de ingreso y salida. 
+- Acciones de capacitación para cada rol. 
