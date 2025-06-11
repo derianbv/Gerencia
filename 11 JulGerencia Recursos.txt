@@ -13,4 +13,4 @@ Funanciero
 Logistico 
 
 Para RHH: 
-Se debe hacer una matriz de roles y responsables: para que todos sepan donde va a ir cada persona. 
+Se debe hacer una matriz de roles y responsables: para que todos sepan donde va a ir cada persona y cuanto tiempo pueden dedicar al proyecto. 
