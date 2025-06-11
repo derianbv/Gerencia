@@ -3,3 +3,12 @@ Gerencia de recursos:
 PASOS: 
 1. Estimar bien los recursos humanos, financieros, logicos y tecnologicos de la empresa.
 2. Para los recursos humanos se determinan los roles de cada persona en el grupo, tambien se entiende si cada persona es buena para su rol y también su disponibilidad. 
+
+EJEMPLO: 
+
+Lo de abajo para una sola actividad (bloque de todos)  
+RECURSOS | DESCRIPCION-PERFIL | FECHA TERMINACION | COSTO | 
+Humano 
+Funanciero 
+Logistico 
+
