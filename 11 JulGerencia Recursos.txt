@@ -1,2 +1,4 @@
+Gerencia de recursos: 
 
-
+PASOS: 
+1. Estimar bien los recursos humanos, financieros, logicos y tecnologicos de la empresa.
