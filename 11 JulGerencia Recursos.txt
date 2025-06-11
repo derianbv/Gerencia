@@ -34,3 +34,9 @@ Documento que tiene lo siguiente:
 - Objetivos plan de proyectos. 
 - Integrantes del grupo, su fecha de ingreso y salida. 
 - Acciones de capacitación para cada rol. 
+
+
+PASOS PARA NIVEAR RECURSOS: 
+1. Hacer el CPM/PERT (nodos de actvidades). 
+2. En el punto en el que se esta hay que que mirar los recursos necesarios de los nodos vecinos y propio. 
+3. S
