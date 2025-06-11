@@ -16,11 +16,13 @@ Logistico
 Se debe hacer una matriz de roles y responsables: para que todos sepan donde va a ir cada persona y cuanto tiempo pueden dedicar al proyecto. 
  
             | PERSONA 1 (DR) | PERSONA 2 (SR) |...|
-rol 
 -----------
-actividad 1   100%                50% 
+rol         |  ingeniero      |  ingeniero     |
+-----------
+actividad 1 | 100%            |     50%        | 
 
-de dedicación en proyecto 
+los porcentajes son de dedicacion al proyecto. 
+
 
 &&&&ORGANIGRAMA: 
 la organización de la empresa
