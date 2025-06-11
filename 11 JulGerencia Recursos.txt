@@ -1,6 +1,6 @@
 Gerencia de recursos: 
 
-PASOS: 
+&&&&PASOS: 
 1. Estimar bien los recursos humanos, financieros, logicos y tecnologicos de la empresa.
 2. Para los recursos humanos se determinan los roles de cada persona en el grupo, tambien se entiende si cada persona es buena para su rol y también su disponibilidad. 
 
@@ -12,7 +12,7 @@ Humano
 Funanciero 
 Logistico 
 
-Para RHH: 
+&&&&Para RHH: 
 Se debe hacer una matriz de roles y responsables: para que todos sepan donde va a ir cada persona y cuanto tiempo pueden dedicar al proyecto. 
  
             | PERSONA 1 (DR) | PERSONA 2 (SR) |...|
@@ -21,3 +21,7 @@ rol
 actividad 1   100%                50% 
 
 de dedicación en proyecto 
+
+&&&&ORGANIGRAMA: 
+la organización de la empresa
+
